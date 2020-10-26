@@ -11,4 +11,7 @@ Tento program díky změně API, které proběhla v září 2020 již není funk
 Tento program slouží k rychlé změně síťového umístění ve Windows 10. *(Public -> Private a naopak)*
 
 ## Windows_10
-Tento program slouží k aktivaci Windows 10. Nenesu žádnou zodpovědnost za jakékoliv škody způsobené tímto programem.
+Tento program slouží k aktivaci Windows 10. 
+
+### Upozornění
+Autor tohoto programu nenese zodpovědnost za jakékoliv škody způsobené tímto programem.
