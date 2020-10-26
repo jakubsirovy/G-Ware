@@ -10,6 +10,7 @@ S využitím tohoto programu jsem mohl na web vkládat odkaz na obrázek uživat
 Tento program díky změně API, které proběhla v září 2020 již není funkční.
 
 ## G - NPC
+Network Profile Changer  
 Tento program slouží k rychlé změně síťového umístění ve Windows 10. *(Public -> Private a naopak)*
 
 ## Windows_10
