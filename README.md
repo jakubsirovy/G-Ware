@@ -14,4 +14,4 @@ Tento program slouží k rychlé změně síťového umístění ve Windows 10. 
 Tento program slouží k aktivaci Windows 10. 
 
 ### Upozornění
-Autor tohoto programu nenese zodpovědnost za jakékoliv škody způsobené tímto programem.
+Autor těchto programů nenese zodpovědnost za jakékoliv škody způsobené těmito programy.
