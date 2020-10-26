@@ -1,5 +1,5 @@
 # G-Ware
-Tyto souboru tady mám pouze na vzpomínku ze začátku programování. Jsou to jedny z mých prvních programů, které jsem vytvořil v C#.
+Tyto souboru tady mám pouze na vzpomínku ze začátku programování. Jsou to jedny z mých prvních programů, které jsem vytvořil v C#. Říkal jsem si G-Ware a všechny porvotní programy jsem vydával pod tímto jménem.
 
 ### Upozornění
 Autor těchto programů nenese zodpovědnost za jakékoliv škody způsobené těmito programy.
